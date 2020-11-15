@@ -1,7 +1,7 @@
 # Личный проект «Погнали» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Илья Сильченко](https://up.htmlacademy.ru/adaptive/21/user/1549447).
-* Наставник: `Неизвестно`.
+* Наставник:Полина Катышева.
 
 ---
 
